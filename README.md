@@ -97,7 +97,7 @@ Angeführt von dem legendären Kater **Hashtoshi Meowkamoto** schufen sie **Meow
 
 ## 📄 Whitepaper Download  
 
-👉 **[Whitepaper TXT]([https://github.com/SIntegration/meowfi-whitepaper/blob/main/README.md](https://github.com/SIntegration/MeowFI/blob/main/Whitepaper.txt))**  
+👉 **[Whitepaper]([https://github.com/SIntegration/meowfi-whitepaper/blob/main/README.md](https://github.com/SIntegration/MeowFI/blob/main/Whitepaper.txt))**  
 
 ---
 
